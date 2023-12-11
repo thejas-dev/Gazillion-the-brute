@@ -79,6 +79,6 @@ Run the tool with the following command:
 python3 brute.py -t 'https://your-target.com' -m post -p https -hR 500,404 -w custom_wordlist.txt
 ```
 
-### Follow me on
+### Connect with me on
 <a href="https://www.linkedin.com/in/thejashari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberspartan" height="30" width="40" /></a>
 <a href="https://instagram.com/nuthejashari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthithehacker" height="30" width="40" /></a>
