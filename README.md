@@ -28,7 +28,7 @@ Gazilion the Brute is a Python tool designed for brute forcing endpoints using a
 ### Installation
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo.git](https://github.com/thejas-dev/Gazillion-the-brute)
+    git clone https://github.com/thejas-dev/Gazillion-the-brute
     cd Gazillion-the-brute
     ```
     
